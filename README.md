@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @noah-maddox
+- 👀 I’m interested in kotlin, javascript, typesciprt, node.js, Angular, and React
+- 🌱 I’m currently learning the above technologies
+- 💞️ I’m looking to collaborate on apps deployed to either IOS or apple play store
